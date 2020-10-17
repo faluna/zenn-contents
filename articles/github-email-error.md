@@ -3,7 +3,7 @@ title: 'githubのpush時のprivate email関係のエラーを解消する方法'
 emoji: '🤖'
 type: 'tech'
 topics: ['github']
-published: false
+published: true
 ---
 
 # github の push 時の private email 関係のエラーを解消する方法
