@@ -6,6 +6,6 @@
   "author": "faluna <jlyvgxs9001@icloud.com>",
   "license": "MIT",
   "devDependencies": {
-    "zenn-cli": "^0.1.40"
+    "zenn-cli": "^0.1.49"
   }
 }

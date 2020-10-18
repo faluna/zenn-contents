@@ -39,8 +39,21 @@ git config --global user.email "コピーしたアドレス"
 
 あとは add して commit して push です．
 
-## おわりに
+## Finally
 
 たった 1 つの設定変更ですが，いきなり起きると訳が分からず苦労したので，もし同じような方がいたら試してください．  
 ちなみに時間をおいて私は 2 回経験しました．  
 2 回目はそこまで時間をかけずに解消しましたが，それでも以前どうやって解決したか忘れてあたふたしました．(だから記事をかいておこうとした訳です笑)
+
+---
+
+## References
+
+- https://blog.proglus.jp/1310/
+- https://qiita.com/Canon11/items/e6f64597d82dbf88f75f
+- https://ontheneworbit.blogspot.com/2018/03/githubpush-your-push-would-publish.html
+
+## Change log
+
+- 2020/10/20: 見出し「おわりに」を「Finally」に変更\(なぜ最後だけ日本語にしたか自分でも分からない笑\)
+- 2020/10/20: References 追加\(項目を忘れていました\)
